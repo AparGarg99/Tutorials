@@ -27,9 +27,10 @@ streamlit run app1.py
 ```
 
 ## Output
-app1_stock_price.py
+<b>app1_stock_price.py<b>
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app1.PNG)
-***
+
+<b>app1_stock_price.py<b>
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app2.PNG)
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app3.PNG)
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app4.PNG)
