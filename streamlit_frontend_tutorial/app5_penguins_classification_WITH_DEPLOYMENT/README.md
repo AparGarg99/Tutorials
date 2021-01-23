@@ -2,7 +2,7 @@
 
 1. Create An Account Heroku by signing up.
 2. Install Heroku CLI
-3. Open folder you want to deploy (in this case app5_penguins_classification_WITH_DEPLOYMENT)
+3. Open folder you want to deploy (in this case app5_penguins_classification_WITH_DEPLOYMENT)<br>
 <b>Note:</b> The folder must contain app.py, setup.sh, Procfile, requirements.txt
 4. Right click mouse and open Git Bash
 5. Local Git initialization
