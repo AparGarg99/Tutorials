@@ -1,6 +1,6 @@
 ### How to Deploy Streamlit Apps to Heroku
 
-1. Create An Account Heroku by signing up.
+1. Create an Heroku account by signing up.
 2. Install Heroku CLI
 3. Open folder you want to deploy (in this case app5_penguins_classification_WITH_DEPLOYMENT)<br>
 <b>Note:</b> The folder must contain app.py, setup.sh, Procfile, requirements.txt
