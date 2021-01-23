@@ -27,5 +27,11 @@ streamlit run app1.py
 ```
 
 ## Output
+app1_stock_price.py
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app1.PNG)
+![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app2.PNG)
+![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app3.PNG)
+![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app4.PNG)
+![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app5.PNG)
+
 ## References
