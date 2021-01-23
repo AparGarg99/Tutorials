@@ -27,7 +27,6 @@ streamlit run app1.py
 ```
 
 ## Output
-<b><ins><a href="https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py">App 1</a></ins></b>
 <ins><b>[App 1](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py)</b></ins>
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app1.PNG)
