@@ -27,23 +27,23 @@ streamlit run app1.py
 ```
 
 ## Output
-<ins><b>[App 1](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py)</b></ins>
+<b>[App 1](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py)</b>
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app1.PNG)
 
-<b>[App 2](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app2_iris_classification.py)<b>
+<b>[App 2](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app2_iris_classification.py)</b>
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app2.PNG)
 
-<b>[App 3](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app3_basketball_data_scraping.py)<b>
+<b>[App 3](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app3_basketball_data_scraping.py)</b>
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app3.PNG)
 
-<b>[App 4](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app4_house_price_regression.py)<b>
+<b>[App 4](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app4_house_price_regression.py)</b>
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app4.PNG)
   
-<b>[App 5](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app5_penguins_classification_WITH_DEPLOYMENT/app.py)<b>
+<b>[App 5](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app5_penguins_classification_WITH_DEPLOYMENT/app.py)</b>
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app5.PNG)
 
