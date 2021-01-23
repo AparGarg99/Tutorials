@@ -27,5 +27,5 @@ streamlit run app1.py
 ```
 
 ## Output
-![](images/app1.png)
+![](Tutorials/streamlit_frontend_tutorial/images/app1.png)
 ## References
