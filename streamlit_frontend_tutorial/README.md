@@ -31,11 +31,19 @@ streamlit run app1.py
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app1.PNG)
 
-<b>app1_stock_price.py<b>
+<b>app2_iris_classification.py<b>
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app2.PNG)
+
+<b>app3_basketball_data_scraping.py<b>
+  
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app3.PNG)
+
+<b>app4_house_price_regression.py<b>
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app4.PNG)
+  
+<b>app5_penguins_classification_WITH_DEPLOYMENT/app.py<b>
+  
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app5.PNG)
 
 ## References
