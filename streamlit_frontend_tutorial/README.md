@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 streamlit run app1.py
 ```
-<pre class="tab">    OR</pre>
+extra &nbsp;&nbsp; OR
 ```
 streamlit run https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py
 ```
