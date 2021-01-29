@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 streamlit run app1.py
 ```
-      **OR**
+OR
 ```
 streamlit run https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py
 ```
