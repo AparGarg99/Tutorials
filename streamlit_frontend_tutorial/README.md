@@ -25,6 +25,10 @@ pip install -r requirements.txt
 ```
 streamlit run app1.py
 ```
+      **OR**
+```
+streamlit run https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py
+```
 *<b>Note: </b> The apps have been arranged in increasing order of complexity. Hence, app1.py is the most basic app.</u>*
   
 ## Output
