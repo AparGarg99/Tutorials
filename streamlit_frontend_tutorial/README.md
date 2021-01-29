@@ -48,5 +48,9 @@ streamlit run app1.py
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app5.PNG)
 
+<b>[App 6](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app6_Multi_page_app/app.py)</b>
+  
+![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app6.PNG)
+
 ## References
 https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
