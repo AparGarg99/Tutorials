@@ -52,5 +52,7 @@ streamlit run app1.py
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app6.PNG)
 
+## Acknowledgement
+[dataprofessor](https://github.com/dataprofessor/code/tree/master/streamlit)
 ## References
 https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
