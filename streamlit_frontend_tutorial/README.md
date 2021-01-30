@@ -14,10 +14,10 @@ conda create -n "streamlit_project"
 conda activate "streamlit_project"
 ```
 4. Clone repository
-'''
+```
 git clone https://github.com/AparGarg99/Tutorials.git
 cd Tutorials/streamlit_frontend_tutorial
-'''
+```
 5. Install the required dependencies
 ```
 pip install -r requirements.txt
