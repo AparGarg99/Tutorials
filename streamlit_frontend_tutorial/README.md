@@ -13,7 +13,7 @@ conda create -n "streamlit_project"
 ```
 conda activate "streamlit_project"
 ```
-4. Clone repository
+4. Open the project
 ```
 git clone https://github.com/AparGarg99/Tutorials.git
 cd Tutorials/streamlit_frontend_tutorial
