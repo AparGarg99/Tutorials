@@ -1,33 +1,30 @@
 ## Summary
-  - [Installation](#installation)
-  - [Usage](#usage)
+  - [Installation and Usage](#installation and usage)
   - [Output](#output)
   - [References](#references)
   
-## Installation
-1. Download and unzip the project
-2. Open Windows command prompt
-3. Create new anaconda environment
+## Installation and Usage
+1. Open Windows command prompt
+2. Create new anaconda environment
 ```
 conda create -n "streamlit_project"
 ```
-4. Activate anaconda environment
+3. Activate anaconda environment
 ```
 conda activate "streamlit_project"
 ```
-5. Open path to project
-6. Install the required dependencies
+4. Clone repository
+'''
+git clone https://github.com/AparGarg99/Tutorials.git
+cd Tutorials/streamlit_frontend_tutorial
+'''
+5. Install the required dependencies
 ```
 pip install -r requirements.txt
 ```
-## Usage
-1. Run the app
+6. Run the app
 ```
 streamlit run app1.py
-```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OR
-```
-streamlit run https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/app1_stock_price.py
 ```
 *<b>Note: </b> The apps have been arranged in increasing order of complexity. Hence, app1.py is the most basic app.</u>*
   
