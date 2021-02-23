@@ -20,4 +20,6 @@ There is a plethora of tutorials on OpenCV on the internet, but none of them pro
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://opencvtutorial.herokuapp.com/)
 
 ## Installation and Usage
-https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/README.md#installation-and-usage
+
+
+https://img.shields.io/endpoint?url='https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/README.md#installation-and-usage
