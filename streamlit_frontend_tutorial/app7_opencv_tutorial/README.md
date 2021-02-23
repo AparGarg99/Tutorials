@@ -3,7 +3,8 @@
   - [Introduction](#introduction)
   - [Demo](#demo)
   - [Installation and Usage](#installation-and-usage)
-  - [Description of Files](#description-of-files)
+  - [How to Deploy](#how-to-deploy)
+  - [References](#references)
 
 
 ## Introduction
@@ -20,4 +21,11 @@ There is a plethora of tutorials on OpenCV on the internet, but none of them pro
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://opencvtutorial.herokuapp.com/)
 
 ## Installation and Usage
-[Click](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/README.md#installation-and-usage)
+[Click Here](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/README.md#installation-and-usage)
+
+## How to Deploy
+[Click Here](https://github.com/AparGarg99/Tutorials/tree/master/streamlit_frontend_tutorial/app5_penguins_classification_WITH_DEPLOYMENT)
+
+## References
+* https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
+* https://www.geeksforgeeks.org/opencv-python-tutorial/
