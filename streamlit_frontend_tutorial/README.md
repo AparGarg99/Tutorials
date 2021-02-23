@@ -1,5 +1,5 @@
 ## Summary
-  - [Installation and Usage](#installation%20and%20usage)
+  - [Installation and Usage](#installation-and-usage)
   - [Output](#output)
   - [References](#references)
   
