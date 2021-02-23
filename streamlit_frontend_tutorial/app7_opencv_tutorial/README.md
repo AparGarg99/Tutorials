@@ -1,6 +1,7 @@
 ## Summary
 
   - [Introduction](#introduction)
+  - [Demo](#demo)
   - [Usage](#usage)
   - [Description of Files](#description-of-files)
 
@@ -15,4 +16,5 @@ There is a plethora of tutorials on OpenCV on the internet, but none of them pro
 
   *My goal here is to make learning OpenCV, fun and understandable to everyone.*
 
+## Demo
 
