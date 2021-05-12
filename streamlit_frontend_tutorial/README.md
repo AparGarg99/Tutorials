@@ -1,6 +1,7 @@
 ## Summary
   - [Installation and Usage](#installation-and-usage)
   - [Output](#output)
+  - [New Functionalities](#new-functionalities)
   - [References](#references)
   
 ## Installation and Usage
@@ -53,7 +54,10 @@ streamlit run app1.py
   
 ![](https://github.com/AparGarg99/Tutorials/blob/master/streamlit_frontend_tutorial/images/app6.PNG)
 
-## Acknowledgement
-[Chanin Nantasenamat](https://github.com/dataprofessor/code/tree/master/streamlit)
+
+## New Functionalities
+* Change Theme: https://github.com/streamlit/theming-showcase
+
 ## References
-https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
+* https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
+* https://github.com/dataprofessor/code/tree/master/streamlit
