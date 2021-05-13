@@ -15,7 +15,7 @@ There is a plethora of tutorials on OpenCV on the internet, but none of them pro
 *	A better understanding of the effect of change in parameter values on the output image.
 *	A better understanding of the effect of one image processing method on top of another.
 
-*My goal here is to make learning OpenCV, fun and understandable to everyone.*
+*My goal here is to make learning of OpenCV, fun and understandable.*
 
 ## Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://opencvtutorial.herokuapp.com/)
