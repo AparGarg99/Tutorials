@@ -21,7 +21,7 @@ cd Tutorials/streamlit_frontend_tutorial
 ```
 5. Install the required dependencies
 ```
-pip install -r requirements.txt
+pip install -r all_requirements.txt
 ```
 6. Run the app
 ```
