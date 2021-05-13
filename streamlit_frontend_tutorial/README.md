@@ -8,7 +8,7 @@
 1. Open Windows command prompt
 2. Create new anaconda environment
 ```
-conda create -n "streamlit_project"
+conda create -n "streamlit_project" python==3.8
 ```
 3. Activate anaconda environment
 ```
