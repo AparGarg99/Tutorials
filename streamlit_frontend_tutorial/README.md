@@ -5,7 +5,7 @@
   - [References](#references)
   
 ## Installation and Usage
-1. Open Windows command prompt
+1. Open Anaconda command prompt
 2. Create new anaconda environment
 ```
 conda create -n "streamlit_project" python==3.8
