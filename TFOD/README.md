@@ -1,5 +1,6 @@
 ## Summary
   - [Installation and Usage](#installation-and-usage)
+  - [Sample Project](#sample-project)
   - [References](#references)
   
 ## Installation and Usage
@@ -25,7 +26,11 @@ pip install -r all_requirements.txt
 ```
 jupyter notebook
 ```
-7. Collect images using [1_Image Collection.ipynb]()
-8. Train model using []()
+7. Collect images using [1_Image Collection.ipynb](https://github.com/AparGarg99/Tutorials/blob/master/TFOD/1_Image%20Collection.ipynb)
+8. Train model using [2_Training and Detection.ipynb](https://github.com/AparGarg99/Tutorials/blob/master/TFOD/2_Training%20and%20Detection.ipynb)
 
+## Sample Project
+[rock-paper-scissors](https://github.com/AparGarg99/RPSGame)
 ## References
+https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
+https://www.youtube.com/watch?v=ZTSRZt04JkY
