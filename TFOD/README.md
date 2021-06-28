@@ -32,5 +32,5 @@ jupyter notebook
 ## Sample Project
 [rock-paper-scissors](https://github.com/AparGarg99/RPSGame)
 ## References
-https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
-https://www.youtube.com/watch?v=ZTSRZt04JkY
+* https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
+* https://www.youtube.com/watch?v=ZTSRZt04JkY
