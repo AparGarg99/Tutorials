@@ -22,7 +22,7 @@ cd Tutorials/TFOD
 ```
 pip install -r requirements.txt
 ```
-&nbsp;&nbsp;*It's advisable to install the libraries on the go.*
+&nbsp;&nbsp;&nbsp;&nbsp;*It's advisable to install the libraries on the go.*
 
 6. Open jupyter notebook
 ```
