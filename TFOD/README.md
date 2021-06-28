@@ -20,7 +20,7 @@ cd Tutorials/TFOD
 ```
 5. [OPTIONAL] Install the required dependencies
 ```
-pip install -r all_requirements.txt
+pip install -r requirements.txt
 ```
 6. Open jupyter notebook
 ```
