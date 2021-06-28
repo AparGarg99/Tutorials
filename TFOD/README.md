@@ -7,11 +7,11 @@
 1. Open Anaconda command prompt
 2. Create new anaconda environment
 ```
-conda create -n "streamlit_project" python==3.8
+conda create -n "tfod_project" python==3.8
 ```
 3. Activate anaconda environment
 ```
-conda activate "streamlit_project"
+conda activate "tfod_project"
 ```
 4. Open the project
 ```
