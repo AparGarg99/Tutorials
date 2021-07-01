@@ -29,7 +29,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 7. Collect images using [1_Image Collection.ipynb](https://github.com/AparGarg99/Tutorials/blob/master/TFOD/1_Image%20Collection.ipynb)<br>
-Big thanks for *tzutalin* for his handy tool [labelImg](https://github.com/tzutalin/labelImg).<br>
+*Big thanks to tzutalin for his handy tool [labelImg](https://github.com/tzutalin/labelImg).*<br><br>
 8. Train model using [2_Training and Detection.ipynb](https://github.com/AparGarg99/Tutorials/blob/master/TFOD/2_Training%20and%20Detection.ipynb)
 
 ## Sample Project
