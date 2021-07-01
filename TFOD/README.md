@@ -32,8 +32,8 @@ jupyter notebook
 8. Train model using [2_Training and Detection.ipynb](https://github.com/AparGarg99/Tutorials/blob/master/TFOD/2_Training%20and%20Detection.ipynb)
 
 ## Sample Project
-[rock-paper-scissors](https://github.com/AparGarg99/RPSGame)
+[RPSGame](https://github.com/AparGarg99/RPSGame) (rock-paper-scissors game)
 
 ## References
-* https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
-* https://www.youtube.com/watch?v=ZTSRZt04JkY
+* MODEL: https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
+* APP: https://www.youtube.com/watch?v=ZTSRZt04JkY
