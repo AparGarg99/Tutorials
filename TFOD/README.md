@@ -29,11 +29,12 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 7. Collect images using [1_Image Collection.ipynb](https://github.com/AparGarg99/Tutorials/blob/master/TFOD/1_Image%20Collection.ipynb)
+Big thanks for *tzutalin* for his handy tool <a href="https://github.com/tzutalin/labelImg"> labelImg</a>.
 8. Train model using [2_Training and Detection.ipynb](https://github.com/AparGarg99/Tutorials/blob/master/TFOD/2_Training%20and%20Detection.ipynb)
 
 ## Sample Project
 [RPSGame](https://github.com/AparGarg99/RPSGame) (rock-paper-scissors game)
 
 ## References
-* MODEL: https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
-* APP: https://www.youtube.com/watch?v=ZTSRZt04JkY
+* MODEL DEV: https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
+* APP DEV: https://www.youtube.com/watch?v=ZTSRZt04JkY
