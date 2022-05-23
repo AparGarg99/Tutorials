@@ -58,6 +58,7 @@ streamlit run app1.py
 ## New Functionalities
 * Change Theme: https://github.com/streamlit/theming-showcase
 * Cool Tricks: https://medium.com/@avra42/streamlit-python-cool-tricks-to-make-your-web-application-look-better-8abfc3763a5b
+* Community Tracker: https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634
 
 ## References
 * https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
