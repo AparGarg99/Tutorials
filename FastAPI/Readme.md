@@ -27,3 +27,7 @@ heroku login
 heroku create <NAME OF YOUR APP>
 git push heroku master
 ```
+
+### References
+* https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7&index=1
+* https://www.youtube.com/watch?v=C82lT9cWQiA
