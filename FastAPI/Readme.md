@@ -8,7 +8,7 @@ uvicorn myapp:app --reload
 http://127.0.0.1:8000/docs
 
 
-### How to Deploy Streamlit Apps to Heroku
+### Deployment on Heroku
 
 1. Create an Heroku account by signing up.
 2. Install Heroku CLI
