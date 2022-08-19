@@ -15,6 +15,5 @@ git commit -m “initial commit”
 ```
 heroku login
 heroku create <NAME OF YOUR APP>
-git remote -v
 git push heroku master
 ```
