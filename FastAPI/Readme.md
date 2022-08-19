@@ -1,4 +1,4 @@
-# Usage
+### Usage
 
 1. Go to Anaconda prompt
 ```
