@@ -1,4 +1,4 @@
-### Usage
+# Usage
 
 1. Go to Anaconda prompt
 ```
@@ -8,7 +8,7 @@ uvicorn myapp:app --reload
 http://127.0.0.1:8000/docs
 
 
-### Deployment on Heroku
+# Deployment on Heroku
 
 1. Create an Heroku account by signing up.
 2. Install Heroku CLI
@@ -28,6 +28,6 @@ heroku create <NAME OF YOUR APP>
 git push heroku master
 ```
 
-### References
+# References
 * https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7&index=1
 * https://www.youtube.com/watch?v=C82lT9cWQiA
