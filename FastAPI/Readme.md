@@ -31,4 +31,4 @@ git push heroku master
 # References
 * Basics: https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7&index=1
 * For ML: https://www.youtube.com/watch?v=C82lT9cWQiA
-* Use API using Python request: https://www.youtube.com/watch?v=aMldpZF6GBU
+* Use API as Python request: https://www.youtube.com/watch?v=aMldpZF6GBU
