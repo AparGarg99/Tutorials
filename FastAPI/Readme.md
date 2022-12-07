@@ -20,7 +20,8 @@ After testing the `streamlit_app.ipynb` with localhost Model Endpoint URL, we ca
 
 1. Create an Heroku account by signing up.
 2. Install Heroku CLI
-3. Navigate to the project folder
+3. Go to the project folder
+
 <b>Note:</b> The folder must contain `api.py`, `Procfile`, `requirements.txt`
 4. Right click mouse and open Git Bash
 5. Local Git initialization
