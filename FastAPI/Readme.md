@@ -1,5 +1,9 @@
-# Usage
+# What is FastAPI?
+* FastAPI is used for Model Deployment i.e. Generating a Model Endpoint URL. 
+* So you have an input in python file. That input goes to the Endpoint URL which that has your model and processes it and returns the output to the python file.
+* By default FastAPI deploys model locally i.e. provides localhost Endpoint URL. But we can deploy the model on cloud i.e. provide remote Endpoint URL.
 
+# Usage
 1. Go to Anaconda prompt
 ```
 uvicorn myapp:app --reload
@@ -8,8 +12,7 @@ uvicorn myapp:app --reload
 http://127.0.0.1:8000/docs
 
 
-# Deployment on Heroku
-
+# Deployment of model on Heroku Cloud (i.e. Remote Endpoint URL)
 1. Create an Heroku account by signing up.
 2. Install Heroku CLI
 3. Open folder you want to deploy (in this case FastAPI)<br>
@@ -21,7 +24,7 @@ git init
 git add .
 git commit -m "initial commit"
 ```
-6. Push app from local to heroku
+6. Push API from local to heroku
 ```
 heroku login
 heroku create <NAME OF YOUR APP>
