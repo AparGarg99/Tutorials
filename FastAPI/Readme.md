@@ -1,5 +1,5 @@
 # What is FastAPI?
-* FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
+FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 
 # Steps
 1. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input.
