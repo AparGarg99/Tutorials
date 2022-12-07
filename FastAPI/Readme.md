@@ -21,7 +21,7 @@ After testing the `streamlit_app.ipynb` with localhost Model Endpoint URL, we ca
 1. Create an Heroku account by signing up.
 2. Install Heroku CLI
 3. Open folder you want to deploy (in this case FastAPI)<br>
-<b>Note:</b> The folder must contain app.py, Procfile, requirements.txt
+<b>Note:</b> The folder must contain api.py, Procfile, requirements.txt
 4. Right click mouse and open Git Bash
 5. Local Git initialization
 ```
