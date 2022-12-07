@@ -1,20 +1,22 @@
 # What is FastAPI?
 * FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
-* Steps - 
-    1. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input
-    2. We run this `api.py` file using cmd that deploys the model locally and generates a localhost Model Endpoint URL. Note: We can deploy the model on cloud too i.e. generate remote Endpoint URL.
-* So we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL that loads the model and processes input using api.py file and returns the output back to the `streamlit_app.py` file.
 
-# Usage
-1. Go to Anaconda prompt
+# Steps
+1. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input.
+2. We run this `api.py` file using Anaconda prompt that deploys the model locally.
 ```
 uvicorn myapp:app --reload
 ```
-2. Open the following link on browser<br>
-http://127.0.0.1:8000/docs
+This will give us Swagger UI link http://127.0.0.1:8000/docs.
+
+FastAPI provides a cool in-built feature of Swagger UI which is a UI where we can go and test our model.
+3. Follow guide to see the localhost Model Endpoint URL.
+4. So we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL that loads the model and processes input using api.py file and returns the output back to the `streamlit_app.py` file.
 
 
 # Deployment of model on Heroku Cloud (i.e. Remote Endpoint URL)
+After testing the `streamlit_app.py` with localhost Model Endpoint URL, we can deploy it on cloud and generate remote Endpoint URL.
+
 1. Create an Heroku account by signing up.
 2. Install Heroku CLI
 3. Open folder you want to deploy (in this case FastAPI)<br>
