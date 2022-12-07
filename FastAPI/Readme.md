@@ -1,7 +1,9 @@
 # What is FastAPI?
-* FastAPI is used for Model Deployment i.e. Generating a Model Endpoint URL. 
-* So you have an input in python file. That input goes to the Endpoint URL which that has your model and processes it and returns the output to the python file.
-* By default FastAPI deploys model locally i.e. provides localhost Endpoint URL. But we can deploy the model on cloud i.e. provide remote Endpoint URL.
+* FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
+* Steps - 
+    1. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input
+    2. We run this `api.py` file using cmd that deploys the model locally and generates a localhost Model Endpoint URL. Note: We can deploy the model on cloud too i.e. generate remote Endpoint URL.
+* So we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL that loads the model and processes input using api.py file and returns the output back to the `streamlit_app.py` file.
 
 # Usage
 1. Go to Anaconda prompt
