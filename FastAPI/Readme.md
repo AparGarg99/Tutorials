@@ -8,7 +8,7 @@ FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 uvicorn myapp:app --reload
 ```
 
-  This will give us the localhost Model Endpoint URL http://127.0.0.1:8000.
+    This will give us the localhost Model Endpoint URL http://127.0.0.1:8000.
 
  FastAPI provides a cool in-built feature of Swagger UI which is a UI where we can go and test our model. If we add "/docs" at the end of the Endpoint URL, it will open up Swagger UI http://127.0.0.1:8000/docs.
 
