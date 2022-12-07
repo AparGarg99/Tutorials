@@ -11,7 +11,7 @@ This will give us the localhost Model Endpoint URL http://127.0.0.1:8000.
 
 FastAPI provides a cool in-built feature of Swagger UI which is a UI where we can go and test our model. If we add "/docs" at the end of the Endpoint URL, it will open up Swagger UI http://127.0.0.1:8000/docs.
 
-3. Follow guide to see how you can automatically get the python script to use this localhost Model Endpoint URL. so you can use the model directly from inside a python script instead of Swagger UI.
+3. Follow [guide](https://github.com/AparGarg99/Tutorials/blob/master/FastAPI/Convert%20to%20Python%20request.docx) to see how you can automatically get the python script to use this localhost Model Endpoint URL. so you can use the model directly from inside a python script instead of Swagger UI.
 4. So now, we have an input in `streamlit_app.ipynb` file. That input goes to the Endpoint URL that loads the model and processes input using api.py file and returns the output back to the `streamlit_app.ipynb` file.
 
 
