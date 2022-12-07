@@ -5,7 +5,7 @@ FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 1. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input.
 2. We run this `api.py` file using Anaconda prompt that deploys the model locally.
 ```
-uvicorn myapp:app --reload
+uvicorn api:app --reload
 ```
 This will give us the localhost Model Endpoint URL http://127.0.0.1:8000.
 
