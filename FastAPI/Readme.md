@@ -7,9 +7,10 @@ FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 ```
 uvicorn myapp:app --reload
 ```
-This will give us Swagger UI link http://127.0.0.1:8000/docs.
+    This will give us Swagger UI link http://127.0.0.1:8000/docs.
 
-FastAPI provides a cool in-built feature of Swagger UI which is a UI where we can go and test our model.
+    FastAPI provides a cool in-built feature of Swagger UI which is a UI where we can go and test our model.
+
 3. Follow guide to see the localhost Model Endpoint URL.
 4. So we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL that loads the model and processes input using api.py file and returns the output back to the `streamlit_app.py` file.
 
