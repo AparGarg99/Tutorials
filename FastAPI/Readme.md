@@ -11,7 +11,7 @@ uvicorn myapp:app --reload
 
  FastAPI provides a cool in-built feature of Swagger UI which is a UI where we can go and test our model.
 
-3. Follow guide to see the localhost Model Endpoint URL.
+3. Follow guide to see the localhost Model Endpoint URL so you can use the model directly from inside a python script instead of Swagger UI.
 4. So we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL that loads the model and processes input using api.py file and returns the output back to the `streamlit_app.py` file.
 
 
