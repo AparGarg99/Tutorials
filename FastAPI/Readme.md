@@ -1,7 +1,7 @@
 # Methods to deploy an ML Project
 There are 3 methods to deploy your system:
 
-1. **Model | App (Processing + UI) -** Model is uploaded to a cloud storage bucket. User gives input to App. The App loads the model using model url, then processes it returns the result. The result is presented to to the user. This App is deployed on another cloud service.
+1. **Model | App (Processing + UI) -** Model is uploaded to a cloud storage bucket. User gives input to App. The App loads the model using model url, then processes it and returns the result. The result is presented to to the user. This App is deployed on another cloud service.
 2. **API (Model + Processing) | App (UI) -** Model is wrapped inside an API which also does the processing and return results. This API is deployed on a cloud service 1 and we get the model Endpoint URL. User gives input to App. App goes to the Endpoint URL to load model, process input, return output. The result is presented to to the user. This App is deployed on another cloud service 2.
 3. **Project (Model + App) -** The entire project is deployed on a cloud service like AWS ElasticBeankstalk.
 
