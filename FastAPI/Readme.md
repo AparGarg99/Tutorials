@@ -1,3 +1,10 @@
+# Ways to deploy system in production
+There are 3 ways to deploy your system in production:
+
+1. Model | App (Processing + UI) - Model is uploaded to a bucket somewhere. User gives input to App. The App loads the model using model url, then processes it returns the result. The result is presented to to the user. This App is deployed on another cloud service.
+2. API (Model + Processing) | App (UI) - Model is wrapped inside an API which also does the processing and return results. This API is deployed on a cloud service I nd we get the model Endpoint URL. User gives input to App. App goes to the Endpoint URL to load model, process input, return output. The result is presented to to the user. This App is deployed on another cloud service II.
+3. Project (Model + App) - The entire project is deployed on a cloud service like AWS ElasticBeankstalk.
+
 # What is FastAPI?
 FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 
