@@ -2,8 +2,9 @@
 FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 
 # Steps
-1. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input.
-2. We run this `api.py` file using Anaconda prompt that deploys the model locally.
+1. Train and save the model - `model_development.ipynb`
+2. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input.
+3. We run this `api.py` file using Anaconda prompt that deploys the model locally.
 ```
 uvicorn api:app --reload
 ```
@@ -11,8 +12,8 @@ This will give us the localhost Model Endpoint URL http://127.0.0.1:8000.
 
 FastAPI provides a cool in-built feature of Swagger UI which is a UI where we can go and test our model. If we add "/docs" at the end of the Endpoint URL, it will open up Swagger UI http://127.0.0.1:8000/docs.
 
-3. Follow the [guide](https://github.com/AparGarg99/Tutorials/blob/master/FastAPI/Convert%20to%20Python%20request.docx) to see how you can automatically get the code that shows how to use this localhost Model Endpoint URL or model directly from a python script instead of Swagger UI. Paste this code in `streamlit_app.py` file.
-4. So now, we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL (that loads the model and processes input using `api.py` file) and returns the output back to the `streamlit_app.py` file.
+4. Follow the [guide](https://github.com/AparGarg99/Tutorials/blob/master/FastAPI/Convert%20to%20Python%20request.docx) to see how you can automatically get the code that shows how to use this localhost Model Endpoint URL or model directly from a python script instead of Swagger UI. Paste this code in `streamlit_app.py` file.
+5. So now, we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL (that loads the model and processes input using `api.py` file) and returns the output back to the `streamlit_app.py` file.
 
 
 # Deployment of model on Heroku Cloud (i.e. Remote Endpoint URL)
