@@ -3,8 +3,8 @@ FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 
 # Steps
 1. Train and save the model - `model_development.ipynb`
-2. We first make `api.py` file that contains pipeline - loading model, loading input, processesing input.
-3. We run this `api.py` file using Anaconda prompt that deploys the model locally.
+2. Make `api.py` file that contains pipeline - loading model, loading input, processesing input.
+3. Run this `api.py` file using Anaconda prompt that deploys the model locally.
 ```
 uvicorn api:app --reload
 ```
