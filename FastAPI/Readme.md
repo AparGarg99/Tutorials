@@ -2,8 +2,8 @@
 There are 3 methods to deploy your system (in ascending order of code separability):
 
 1. **Project (Model + App) -** The entire project is deployed on a cloud service like AWS ElasticBeankstalk.
-2. **Model | App (Processing + UI) -** Model is uploaded to a cloud storage bucket. User gives input to App. The App loads the model using Model Endpoint URL, does the prediction using it and returns the result. The result is presented to to the user. This App is deployed on another cloud service.
-3. **API (Model + Processing) | App (UI) -** Model is wrapped inside an API which also does the prediction and return results. This API is deployed on a cloud service 1 and we get the API Endpoint URL. User gives input to App. App goes to the API Endpoint URL to load model, process input, return output. The result is presented to to the user. This App is deployed on another cloud service 2.
+2. **Model | App (Processing + UI) -** Model is uploaded to a cloud storage bucket. User gives input to App. The App loads the model using remote Model Endpoint URL, does the prediction using it and returns the result. The result is presented to to the user. This App is deployed on another cloud service.
+3. **API (Model + Processing) | App (UI) -** Model is wrapped inside an API which also does the prediction and return results. This API is deployed on a cloud service 1 and we get the remote API Endpoint URL. User gives input to App. App goes to the remote API Endpoint URL to load model, process input, return output. The result is presented to to the user. This App is deployed on another cloud service 2.
 
 In this tutorial, we'll learn Method 3 which is most widely used in industry.
 
