@@ -1,11 +1,11 @@
 # Methods to deploy an ML Project
-There are 3 methods to deploy your system:
+There are 3 methods to deploy your system (in ascending order of code separability):
 
-1. **Model | App (Processing + UI) -** Model is uploaded to a cloud storage bucket. User gives input to App. The App loads the model using model url, then processes it and returns the result. The result is presented to to the user. This App is deployed on another cloud service.
-2. **API (Model + Processing) | App (UI) -** Model is wrapped inside an API which also does the processing and return results. This API is deployed on a cloud service 1 and we get the model Endpoint URL. User gives input to App. App goes to the Endpoint URL to load model, process input, return output. The result is presented to to the user. This App is deployed on another cloud service 2.
-3. **Project (Model + App) -** The entire project is deployed on a cloud service like AWS ElasticBeankstalk.
+1. **Project (Model + App) -** The entire project is deployed on a cloud service like AWS ElasticBeankstalk.
+2. **Model | App (Processing + UI) -** Model is uploaded to a cloud storage bucket. User gives input to App. The App loads the model using model url, does the prediction using it and returns the result. The result is presented to to the user. This App is deployed on another cloud service.
+3. **API (Model + Processing) | App (UI) -** Model is wrapped inside an API which also does the prediction and return results. This API is deployed on a cloud service 1 and we get the model Endpoint URL. User gives input to App. App goes to the Endpoint URL to load model, process input, return output. The result is presented to to the user. This App is deployed on another cloud service 2.
 
-In this tutorial, we'll learn Method 2.
+In this tutorial, we'll learn Method 3 which is most widely used in industry.
 
 # What is FastAPI?
 FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
@@ -51,3 +51,5 @@ git push heroku master
 * For Tabular Data ML: https://www.youtube.com/watch?v=C82lT9cWQiA
 * For Image Data ML: https://www.youtube.com/watch?v=aMldpZF6GBU
 * Use API as Python request: https://www.youtube.com/watch?v=aMldpZF6GBU
+* Deployment of model on GCP (Method 2): https://www.youtube.com/watch?v=fw6NMQrYc6w
+* Deployment of model on IBM Cloud (Method 2): https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
