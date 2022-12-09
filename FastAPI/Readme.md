@@ -8,9 +8,9 @@ There are 3 methods to deploy your system (in ascending order of code separabili
 In this tutorial, we'll learn Method 3 which is most widely used in industry.
 
 # What is FastAPI?
-FastAPI is a service used for Model Deployment i.e. generating a Model Endpoint URL for "Model + Processing" part mentioned in Method 3 above.
+FastAPI is a service used to create **API (Model + Processing)** mentioned in Method 3 above and generating an Endpoint URL for the same.
 
-# Steps to run on local machine
+# Steps to run API on local machine (i.e. Local Endpoint URL)
 1. Train and save the model - `model_development.ipynb`
 2. Make `api.py` file that contains pipeline - loading model, loading input, processesing input.
 3. Run this `api.py` file using Anaconda prompt that deploys the model locally.
@@ -25,7 +25,7 @@ FastAPI provides a cool in-built feature of Swagger UI which is a UI where we ca
 5. So now, we have an input in `streamlit_app.py` file. That input goes to the Endpoint URL (that loads the model and processes input using `api.py` file) and returns the output back to the `streamlit_app.py` file.
 
 
-# Deployment of model on Heroku Cloud (i.e. Remote Endpoint URL)
+# Deployment of API on Heroku Cloud (i.e. Remote Endpoint URL)
 After testing the `streamlit_app.py` with localhost Model Endpoint URL, we can deploy it on cloud and generate remote Endpoint URL.
 
 1. Create an Heroku account by signing up.
