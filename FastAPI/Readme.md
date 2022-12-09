@@ -10,7 +10,7 @@ In this tutorial, we'll learn Method 3 which is most widely used in industry.
 # What is FastAPI?
 FastAPI is used for Model Deployment i.e. generating a Model Endpoint URL.
 
-# Steps
+# Steps to run on local machine
 1. Train and save the model - `model_development.ipynb`
 2. Make `api.py` file that contains pipeline - loading model, loading input, processesing input.
 3. Run this `api.py` file using Anaconda prompt that deploys the model locally.
