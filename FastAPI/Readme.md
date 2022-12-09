@@ -8,7 +8,7 @@ There are 3 methods to deploy your system (in ascending order of code separabili
 In this tutorial, we'll learn Method 3 which is most widely used in industry.
 
 # What is FastAPI?
-FastAPI is a service used for Model Deployment i.e. generating a Model Endpoint URL for "Model + Processing" part in Method 3 mentioned above.
+FastAPI is a service used for Model Deployment i.e. generating a Model Endpoint URL for "Model + Processing" part mentioned in Method 3 above.
 
 # Steps to run on local machine
 1. Train and save the model - `model_development.ipynb`
