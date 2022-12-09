@@ -51,5 +51,5 @@ git push heroku master
 * For Tabular Data ML: https://www.youtube.com/watch?v=C82lT9cWQiA
 * For Image Data ML: https://www.youtube.com/watch?v=aMldpZF6GBU
 * Use API as Python request: https://www.youtube.com/watch?v=aMldpZF6GBU
-* Deployment of model on GCP (Method 2): https://www.youtube.com/watch?v=fw6NMQrYc6w
-* Deployment of model on IBM Cloud (Method 2): https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
+* Deployment of model on GCP (part of Method 2): https://www.youtube.com/watch?v=fw6NMQrYc6w
+* Deployment of model on IBM Cloud (part of Method 2): https://www.youtube.com/watch?v=yqkISICHH-U&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=4
