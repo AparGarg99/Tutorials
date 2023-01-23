@@ -9,9 +9,9 @@ Short AI and Data Science Tutorials to help DS Enthusiasts get started.
 <html lang="en">
 
 <main>
-<div class="row" id="machine_learning">
-            <div class="col-sm-12">
-                <h3 class="category_header">Machine Learning</h3>
+            <div class="row" id="machine_learning">
+                        <div class="col-sm-12">
+                            <h3 class="category_header">Machine Learning</h3>
+                        </div>
             </div>
-</div>
 ```
