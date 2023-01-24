@@ -37,3 +37,39 @@
 * [Topic Modeling - LDA](https://github.com/AparGarg99/Tutorials/blob/master/Topic_Modeling_LDA.ipynb)
                             
 * [Self Organizing Map (SOM)](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%202/D2_SOM.ipynb)
+
+
+# 2. Computer Vision
+* [CNN (Keras Sequential model) + Keras Tuner](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%202/prumls_wks2_3_Apar%20Garg.ipynb)
+                           
+* [CNN (Keras Functional API)](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%203/Workshop/prumls-wks3-1-1_Apar_Garg.ipynb)
+                          
+* [GRNN](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%202/D2_GRNN.ipynb)
+                            
+* [Fastai - Transfer Learning](https://github.com/AparGarg99/Food_Mania/blob/master/Jupyter_Notebooks/2_Model_Development.ipynb)
+                           
+* [Tensorflow - Transfer Learning](https://github.com/AparGarg99/Tutorials/blob/master/Tensorflow_transfer_learning.ipynb)
+                          
+* [GAN](https://github.com/AparGarg99/Tutorials/blob/master/GAN.ipynb)
+                            
+* [Stacking Ensemble](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%205/D5%20StackingEnsembleNN_AparGarg.ipynb)
+                            
+* [Average Ensemble](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%205/D5%20averageEnsembleNN.ipynb)
+                           
+* [Depth Map from stereo images](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/2%20-%20Spatial%20Reasoning%20from%20Sensor%20Data/Day%201/Workshop%20-%20spatial_sensing/wk_spatial_sensing_Apar_Garg.ipynb)
+                           
+* [SIFT - Image Matching](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/2%20-%20Spatial%20Reasoning%20from%20Sensor%20Data/Day%201/Workshop%20-%20spatial_sensing/wk_spatial_sensing_Apar_Garg.ipynb)
+                        
+* [SIFT+VLAD - Image Matching](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/2%20-%20Spatial%20Reasoning%20from%20Sensor%20Data/Day%202/Workshop%20-%20place_recognition/wk_place_recognition_keras_Apar_Garg%20(1).ipynb)
+                           
+* [Motion Feature Extraction](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/3%20-%20Real-time%20Audio-Visual%20Sensing%20and%20Sense%20Making/Day%201/wk_tracking_Apar%20Garg.ipynb)
+                            
+* [Object Tracking](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/3%20-%20Real-time%20Audio-Visual%20Sensing%20and%20Sense%20Making/Day%201/wk_tracking_Apar%20Garg.ipynb)
+                            
+* [HOF and 3DCNN - Action Recognition](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/3%20-%20Real-time%20Audio-Visual%20Sensing%20and%20Sense%20Making/Day%202/2_wk_action_code_only/wk_action_keras_Apar_Garg.ipynb)
+                           
+* [2DCNN - Action Recognition](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/3%20-%20Real-time%20Audio-Visual%20Sensing%20and%20Sense%20Making/Day%204/Workshop/rtavs_wks4_2_Apar_Garg.ipynb)
+                            
+* [Pose Estimation](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/3%20-%20Real-time%20Audio-Visual%20Sensing%20and%20Sense%20Making/Day%204/Workshop/rtavs_wks4_3_Apar_Garg.ipynb)
+                    
+# 3. Natural Language Processing
