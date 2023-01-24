@@ -1,9 +1,3 @@
-# Overview
-Short AI and Data Science Tutorials to help DS Enthusiasts get started.
-
-# License
-[Click Here](https://github.com/AparGarg99/Tutorials/blob/master/License.txt) to view the license.
-
 # 1. Machine Learning
 
 ### 1.1. Supervised Learning
@@ -37,3 +31,9 @@ Short AI and Data Science Tutorials to help DS Enthusiasts get started.
 * [Hyperparameter Tuning](https://github.com/AparGarg99/Tutorials/blob/master/HyperparameterTuning_tutorial.ipynb)
                         
 ### 1.2. Unsupervised Learning
+
+* [K-Means Clustering](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/1%20-%20Problem%20Solving%20using%20Pattern%20Recognition/Day%205/BirthDeath_Kmeans_Demo%20(V2).ipynb)
+                            
+* [Topic Modeling - LDA](https://github.com/AparGarg99/Tutorials/blob/master/Topic_Modeling_LDA.ipynb)
+                            
+* [Self Organizing Map (SOM)](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%202/D2_SOM.ipynb)
