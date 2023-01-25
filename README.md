@@ -73,3 +73,36 @@
 * [Pose Estimation](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/3%20-%20Real-time%20Audio-Visual%20Sensing%20and%20Sense%20Making/Day%204/Workshop/rtavs_wks4_3_Apar_Garg.ipynb)
                     
 # 3. Natural Language Processing
+
+* [NLTK](https://github.com/AparGarg99/Tutorials/blob/master/NLTK_tutorial.ipynb)
+                          
+* [Text Preprocessing](https://github.com/AparGarg99/NUS/blob/main/1%20-%20Intelligent%20Reasoning%20Systems/1%20-%20Machine%20Reasoning/Workshops/A0231539E%20Apar%20Garg%20-%20sln%20-%20Text%20Process.ipynb)
+                           
+* [Tensorflow - Text Classification](https://github.com/AparGarg99/Tutorials/blob/master/Tensorflow_Sentiment_Analysis.ipynb)
+                          
+* [LSTM - Keras - Text Classification](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%203/Optional%20workshop/prumls_wks3_2_1.ipynb)
+                            
+* [CNN-LSTM - Keras - Text Classification](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/2%20-%20Pattern%20Recognition%20and%20ML%20Systems/Day%203/Optional%20workshop/prumls_wks3_2_2.ipynb)
+                            
+* [H20 - Text Classification](https://github.com/AparGarg99/Tutorials/blob/master/H2O_Sentiment_Analysis.ipynb)
+                           
+* [RNN - Natural Language Generation](https://github.com/AparGarg99/Tutorials/blob/master/RNN_NLG.ipynb)
+                           
+* [Seq2Seq - Machine Translation](https://github.com/AparGarg99/Tutorials/blob/master/Seq2Seq_MachineTranslation.ipynb)
+                            
+* [Similarity-based Chatbot](https://github.com/AparGarg99/NUS/blob/main/1%20-%20Intelligent%20Reasoning%20Systems/1%20-%20Machine%20Reasoning/Workshops/A0231539E%20Apar%20Garg%20-%20sln%20-%20FAQ%20Bot.ipynb)
+
+# 4. Web Scraping with Python
+
+* [Infinite Scrolling](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Infinite_Scrolling.ipynb)
+                    
+* [Anti-Blocking Techniques](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Anti-Blocking%20Scraping%20Techniques%20Tutorial.ipynb)
+                            
+* [AutoScraper (Automatic Web Scraping)](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/AutoScraper.ipynb)
+                           
+* [Hide Credentials](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Hide_Credentials.ipynb)
+                            
+* [Login using Requests](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Login_using_requests.ipynb)
+                           
+* [Login using cookies](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Login_using_cookies.ipynb)
+                        
