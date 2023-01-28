@@ -106,3 +106,20 @@
                            
 * [Login using cookies](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Login_using_cookies.ipynb)
                         
+# 5. Audio Data
+
+* [Audio Data Augmentation](https://github.com/AparGarg99/Tutorials/blob/master/Audio_Data_Augmentation_tutorial.ipynb)
+                            
+* [Audio Classification](https://github.com/AparGarg99/NUS/blob/main/3%20-%20Intelligent%20Sensing%20Systems/3%20-%20Real-time%20Audio-Visual%20Sensing%20and%20Sense%20Making/Day%203/Workshop/rtavs_wks3_4__Apar_Garg.ipynb)
+                            
+* [HMM-based Speech Recognition System](https://github.com/AparGarg99/NUS/blob/main/1%20-%20Intelligent%20Reasoning%20Systems/3%20-%20Cognitive%20Systems/Day%202/Workshop%202/AparGarg_A0231539E.ipynb)
+
+# 6. Signal Processing
+
+* [Peak Detection and Baseline Correction](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/3%20-%20Intelligent%20Sensing%20and%20Sense%20Making/Day%201/Workshops/issm_wks1__AparGarg_.ipynb)
+                      
+* [Dynamic Time Warping (DTW)](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/3%20-%20Intelligent%20Sensing%20and%20Sense%20Making/Day%201/Workshops/issm_wks2__AparGarg_.ipynb)
+                           
+* [Wavelet Transformation - Feature Extraction](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/3%20-%20Intelligent%20Sensing%20and%20Sense%20Making/Day%202/wk_signal_AparGarg.ipynb)
+                            
+* [Autoencoder - Anomaly Detection](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/3%20-%20Intelligent%20Sensing%20and%20Sense%20Making/Day%203/day3%20workshop/wk_abnormal_keras_AparGarg.ipynb)
