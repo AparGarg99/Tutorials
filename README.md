@@ -96,7 +96,7 @@
 
 * [Infinite Scrolling](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Infinite_Scrolling.ipynb)
                     
-* [Anti-Blocking Techniques](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Anti-Blocking%20Scraping%20Techniques%20Tutorial.ipynb)
+* [Anti-Blocking Techniques](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/Anti-Blocking%20Scraping%20Techniques.ipynb)
                             
 * [AutoScraper (Automatic Web Scraping)](https://github.com/AparGarg99/Tutorials/blob/master/Web%20Scraping/AutoScraper.ipynb)
                            
