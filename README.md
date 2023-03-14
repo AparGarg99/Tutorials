@@ -123,3 +123,38 @@
 * [Wavelet Transformation - Feature Extraction](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/3%20-%20Intelligent%20Sensing%20and%20Sense%20Making/Day%202/wk_signal_AparGarg.ipynb)
                             
 * [Autoencoder - Anomaly Detection](https://github.com/AparGarg99/NUS/blob/main/2%20-%20Pattern%20Recognition%20Systems/3%20-%20Intelligent%20Sensing%20and%20Sense%20Making/Day%203/day3%20workshop/wk_abnormal_keras_AparGarg.ipynb)
+
+# 7. Optimization
+
+* [OR-Tools - Constraint Satisfaction Problem](https://github.com/AparGarg99/NUS/blob/main/1%20-%20Intelligent%20Reasoning%20Systems/2%20-%20Reasoning%20Systems/Day%202/A0231539E%20-%20Apar%20Garg%20-%20sln%20-%20RS2WS2.3.2.ipynb)
+
+* [Fuzzy Logic](https://github.com/AparGarg99/NUS/blob/main/1%20-%20Intelligent%20Reasoning%20Systems/1%20-%20Machine%20Reasoning/Workshops/A0231539E%20Apar%20Garg%20-%20sln%20-%20Fuzzy%20Washing%20Machine.ipynb)
+
+* [Genetic Algorithm](https://github.com/AparGarg99/NUS/blob/main/1%20-%20Intelligent%20Reasoning%20Systems/2%20-%20Reasoning%20Systems/Day%203/GA_TSP.ipynb)
+
+# 8. Web Development
+
+* [Streamlit](https://github.com/AparGarg99/Tutorials/tree/master/streamlit_frontend_tutorial)
+
+* [Flask (Without Styling)](https://github.com/AparGarg99/Gender-Classifier/tree/main/basic_app)
+
+* [Flask (With Styling)](https://github.com/AparGarg99/Gender-Classifier)
+
+* [FastAPI](https://github.com/AparGarg99/Tutorials/tree/master/FastAPI)
+
+* [PyPI (pip)](https://github.com/AparGarg99/helloworldpypi)
+
+# 9. Resources
+
+* [Daniel Bourke](https://github.com/mrdbourke/machine-learning-roadmap)
+
+* [Ashish Patel](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
+* [PapersWithCode](https://paperswithcode.com/)
+
+* [Aman Kharwal](https://thecleverprogrammer.com/)
+
+* [DL Drizzle](https://deep-learning-drizzle.github.io/)
+
+* [Streamlit]()
+
